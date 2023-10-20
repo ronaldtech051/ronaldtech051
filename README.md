@@ -1,19 +1,36 @@
 ### Hello, there 👋
 
-My name is Artur Herus and I'm a full stack web developer and fall in :heart: with MERN Stack, Vue.js/Nuxt.js, Next.js, PHP, Python, APIs and smart people
+I am a web developer with expertise in React/Next.js, TailwindCSS, Node.js, and database management. I also have extensive knowledge in PHP, specifically Laravel and WordPress, as well as Python and Django.
+I have 10+ years of experience working on various web development projects. My focus has been on developing responsive and user-friendly web applications using modern technologies. I have worked with small startups as well as large corporations, and I am comfortable both as an individual contributor and as part of a team.
+Feel free to reach out if you have any questions or need assistance with your web development projects!
 
-#### Projects
-[👻 Ghost in the shell](https://in.theshell.xyz) - Ghost in the shell. Remake. [Repo](https://github.com/artur-herus/intheshell)
-
-[🔧 localb.in](https://localb.in) - Linux-tools-as-a-service. All you need is curl (wget/invoke-webrequest)
-
-[📍 SOSMap](http://sosmap.2big.cc/) - Will help to find nearest city if you are lost
-
-[🔑 Mechanical Password Generator](https://mpg.2big.cc/) - Password generator, looks like real. Just roll to generate password
-
-[🟩 WhatsApp Dialog](http://2big.cc/wa) - Opens dialog with Whatsapp user without adding to addressbook
-
-
+Skills
+Front-End Development
+- React/Next.js
+- TailwindCSS
+- Vue.js
+- Svelte
+Back-End Development
+- Node.js
+Database Management
+- MySQL
+- MongoDB
+- PostgreSQL
+PHP Development
+- Laravel
+- WordPress
+Python Development
+- Django
+Projects
+- Created a scalable e-commerce platform using React, Next.js, and TailwindCSS.
+- Developed custom WordPress themes and plugins for multiple clients.
+- Built RESTful APIs using Node.js and Express.
+- Implemented database management systems using SQL.
+Additional Information
+I am constantly learning and staying up to date with the latest trends and technologies in web
+development.
+I have good problem-solving skills and attention to detail, ensuring high-quality code.
+I am a strong collaborator and enjoy working in a team environment.
 
 #### Badges
 
