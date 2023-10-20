@@ -15,13 +15,6 @@ My name is Artur Herus and I'm a full stack web developer and fall in :heart: wi
 
 
 
-
-LinkedIn: [andreyesin](https://linkedin.com/in/andreyesin)
-
-Email: [mail@andrey.es](mailto:mail@andrey.es)
-
-Fediverse: [hubzil.la/channel/andrey](https://hubzil.la/channel/andrey)
-
 #### Badges
 
-![](https://komarev.com/ghpvc/?username=esin)
+![](https://komarev.com/ghpvc/?username=artur-herus)
