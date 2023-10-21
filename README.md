@@ -12,34 +12,24 @@ Feel free to reach out if you have any questions or need assistance with your we
 - TailwindCSS
 - Vue.js
 - Svelte
-
+- Angular
 ### Back-End Development
-
 - Node.js
- 
 ### Database Management
-
 - MySQL
 - MongoDB
 - PostgreSQL
-- 
 ### PHP Development
-
 - Laravel
 - WordPress
 ### Python Development
-
 - Django
-- 
 ## Projects
-
 - Created a scalable e-commerce platform using React, Next.js, and TailwindCSS.
 - Developed custom WordPress themes and plugins for multiple clients.
 - Built RESTful APIs using Node.js and Express.
 - Implemented database management systems using SQL.
-
 ## Additional Information
-
 I am constantly learning and staying up to date with the latest trends and technologies in web
 development.
 I have good problem-solving skills and attention to detail, ensuring high-quality code.
