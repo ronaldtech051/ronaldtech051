@@ -37,7 +37,7 @@ Feel free to reach out if you have any questions or need assistance with your we
 - Developed custom WordPress themes and plugins for multiple clients.
 - Built RESTful APIs using Node.js and Express.
 - Implemented database management systems using SQL.
-- 
+
 ## Additional Information
 
 I am constantly learning and staying up to date with the latest trends and technologies in web
