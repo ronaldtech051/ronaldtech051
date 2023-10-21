@@ -4,41 +4,41 @@ I am a web developer with expertise in React/Next.js, TailwindCSS, Node.js, and 
 I have 10+ years of experience working on various web development projects. My focus has been on developing responsive and user-friendly web applications using modern technologies. I have worked with small startups as well as large corporations, and I am comfortable both as an individual contributor and as part of a team.
 Feel free to reach out if you have any questions or need assistance with your web development projects!
 
-##Skills
+## Skills
 
-###Front-End Development
+### Front-End Development
 
 - React/Next.js
 - TailwindCSS
 - Vue.js
 - Svelte
 - 
-###Back-End Development
+### Back-End Development
 
 - Node.js
  
-###Database Management
+### Database Management
 
 - MySQL
 - MongoDB
 - PostgreSQL
 - 
-###PHP Development
+### PHP Development
 
 - Laravel
 - WordPress
-###Python Development
+### Python Development
 
 - Django
 - 
-##Projects
+## Projects
 
 - Created a scalable e-commerce platform using React, Next.js, and TailwindCSS.
 - Developed custom WordPress themes and plugins for multiple clients.
 - Built RESTful APIs using Node.js and Express.
 - Implemented database management systems using SQL.
 - 
-##Additional Information
+## Additional Information
 
 I am constantly learning and staying up to date with the latest trends and technologies in web
 development.
