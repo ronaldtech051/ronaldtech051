@@ -12,7 +12,7 @@ Feel free to reach out if you have any questions or need assistance with your we
 - TailwindCSS
 - Vue.js
 - Svelte
-- 
+
 ### Back-End Development
 
 - Node.js
