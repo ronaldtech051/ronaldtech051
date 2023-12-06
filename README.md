@@ -5,9 +5,7 @@ I have 10+ years of experience working on various web development projects. My f
 Feel free to reach out if you have any questions or need assistance with your web development projects!
 
 ## Skills
-
 ### Front-End Development
-
 - React/Next.js
 - TailwindCSS
 - Vue.js
@@ -37,4 +35,4 @@ I am a strong collaborator and enjoy working in a team environment.
 
 ## Badges
 
-![](https://komarev.com/ghpvc/?username=artur-herus)
+![](https://komarev.com/ghpvc/?username=Samonov51)
