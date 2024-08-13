@@ -22,6 +22,7 @@ Feel free to reach out if you have any questions or need assistance with your we
 - WordPress
 ### Python Development
 - Django
+### ASP.NET
 ## Projects
 - Created a scalable e-commerce platform using React, Next.js, and TailwindCSS.
 - Developed custom WordPress themes and plugins for multiple clients.
