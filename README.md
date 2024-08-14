@@ -1,6 +1,6 @@
 ## Hello, there 👋
 
-I am a web developer with expertise in React/Next.js, TailwindCSS, Node.js, and database management. I also have extensive knowledge in PHP, specifically Laravel and WordPress, as well as Python and Django.
+I am a web developer with expertise in React/Next.js, Vue.js/Nuxt, Angular, TailwindCSS, Node.js, and database management. I also have extensive knowledge in PHP, specifically Laravel and WordPress, as well as Python and Django.
 I have 10+ years of experience working on various web development projects. My focus has been on developing responsive and user-friendly web applications using modern technologies. I have worked with small startups as well as large corporations, and I am comfortable both as an individual contributor and as part of a team.
 Feel free to reach out if you have any questions or need assistance with your web development projects!
 
